@@ -1,0 +1,32 @@
+@font-face {
+    font-family: Comforta;
+    src: url("Comforta.ttf") format("opentype");
+}
+
+@font-face {
+    font-family: Comforta;
+    font-weight: bold;
+    src: url("Comforta.ttf") format("opentype");
+}
+
+@font-face {
+    font-family: Bunge;
+    src: url("Bunge.ttf") format("opentype");
+}
+
+@font-face {
+    font-family: Bunge;
+    font-weight: bold;
+    src: url("Bunge.ttf") format("opentype");
+}
+
+@font-face {
+    font-family: Poppins-Bold;
+    src: url("Poppins-Bold.ttf") format("opentype");
+}
+
+@font-face {
+    font-family: Poppins-Light;
+    font-weight: bold;
+    src: url("Poppins-Light.ttf") format("opentype");
+}
